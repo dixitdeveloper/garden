@@ -14,8 +14,14 @@
 
 **Morals:** are your ideas about right and wrong, especially how you should act and treat other peoples.
 - standards of good behaviours.
+- A lesson in the right way to behave that can be learnt from a story or an experience.
 
 **Morality:** is the belief that some behaviours is right and acceptable and that other behaviour  is wrong.
+
+**Values:** are individual beliefs that motivate people to act one way or another.
+- to think somebody/something is very important.
+- to decide how much someone/something is worth.
+***"Values are ideas of someone about what is good or bad. Ethics are all about reasoning how to do the right action."***
 
 
 ### 3. Difference between personal ethics and professional ethics. (4 Marks)
