@@ -9,6 +9,13 @@
 
 ### 2. Define ethics, morals, values, etiquettes and professional code. (3,4 Marks)
 
+**Ethics:** A set of moral principles. They affect how people make decisions and lead their lives.
+- Ethics is the process of questioning, discovering and defending our values, principles and purpose.
+
+**Morals:** are your ideas about right and wrong, especially how you should act and treat other peoples.
+- standards of good behaviours.
+
+**Morality:** is the belief that some behaviours is right and acceptable and that other behaviour  is wrong.
 
 
 ### 3. Difference between personal ethics and professional ethics. (4 Marks)
