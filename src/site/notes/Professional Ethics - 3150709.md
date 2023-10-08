@@ -6,5 +6,5 @@
 ## Mid Syllabus
 
 - [[Ch-1 Concepts and theories of Business Ethics\|Ch-1 Concepts and theories of Business Ethics]]
-- [[Ch-2 Ethics Dilemmas, Sources and Their resolutions\|Ch-2 Ethics Dilemmas, Sources and Their resolutions]]
-- [[Ch-3 Individual factors - Moral Philosophies and Values\|Ch-3 Individual factors - Moral Philosophies and Values]]
+- [[Ch-3 Ethics Dilemmas\|Ch-3 Ethics Dilemmas]]
+- [[Ch-5 Individual Factors\|Ch-5 Individual Factors]]
