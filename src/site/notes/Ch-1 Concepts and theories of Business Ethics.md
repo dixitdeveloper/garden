@@ -57,6 +57,12 @@
 
 ### 4. Explain Indian ethical tradition. (4 Marks) 
 
+- India has reach ethical traditions which comes from books like Gita, Upanishads etc.
+- It says perform the right duty, at the right time in the right manner.
+- Indian tradition always emphasized the dignity of human life and right to live in respectful life.
+- From time to time this rich values are disappearing from the mainstream.
+- There are so many ideas you can learn from Indian history.
+- Indian traditions are copied and followed by western countries in their organizational conduct.
 
 
 
