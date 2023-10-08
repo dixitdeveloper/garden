@@ -2,12 +2,7 @@
 {"dg-publish":true,"permalink":"/ch-1-concepts-and-theories-of-business-ethics/"}
 ---
 
-
-### 1. Explain Principles of professional and personal ethics. (4,7 Marks)
-
-
-
-### 2. Define ethics, morals, values, etiquettes and professional code. (3,4 Marks)
+### 1. Define ethics, morals, values, etiquettes and professional code. (3,4 Marks)
 
 **Ethics:** A set of moral principles. They affect how people make decisions and lead their lives.
 - Ethics is the process of questioning, discovering and defending our values, principles and purpose.
@@ -28,11 +23,26 @@
 **Professional Code:** is designed to ensure employees are behaving in a manner that is socially acceptable and respectful of one another.
 
 
-### 3. Difference between personal ethics and professional ethics. (4 Marks)
+### 2. Difference between personal ethics and professional ethics. (4 Marks)
+
+| Personal Ethics | Business Ethics |
+|----|----|
+| Includes your personal morals and values. | Rules imposed on the individual by his organization. |
+| Learned from family, friends, relatives. | Learned when you become part of corporate world. |
+| Not conforming that may hurt others. | Not conforming that destroys your professional reputation. |
+| Ex: Honesty, Friendliness, Respect for others, Loyalty | Ex: Industry Standards, Worker treatment, Confidentiality, Worker safety | 
+
+**More Example of Business/Professional Ethics:**
+- Transparency
+- Accountability
+- Fairness
+- Kindness
+- Commitment
+- Least Harm
+- Sustainability
 
 
-
-### 4. Distinguish between morality and laws. (3,4 Marks)
+### 3. Distinguish between morality and laws. (3,4 Marks)
 
 - Law is a body of rules and regulations that all people are mandatorily obligated to adhere to. Morals, on the other hand, refer to general principles or standards of behavior that define human conduct within society but are not compulsory to be followed.
 
@@ -45,7 +55,7 @@
 | Law has a legal binding. | Ethics do not have a binding nature. |
 
 
-### 5. Explain Indian ethical tradition. (4 Marks) 
+### 4. Explain Indian ethical tradition. (4 Marks) 
 
 
 
