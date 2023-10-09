@@ -16,6 +16,7 @@
 **Values:** are individual beliefs that motivate people to act one way or another.
 - to think somebody/something is very important.
 - to decide how much someone/something is worth.
+
 ***"Values are ideas of someone about what is good or bad. Ethics are all about reasoning how to do the right action."***
 
 **Etiquettes:** the rule of polite and correct behaviour.
