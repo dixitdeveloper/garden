@@ -66,8 +66,6 @@
 **1. Connection-oriented method**
 **2. Connectionless method**
 
-![](https://i.imgur.com/QLWCVbV.png)
-
 **1. Connection-oriented method:**
 - It actually a data transfer method among two computers in different network.
 - Typically used to transport and send data at session layer.
@@ -92,9 +90,17 @@
 - Some of data packets may also be lost during transmission.
 - UDP - User Datagram Protocol
 
+![](https://i.imgur.com/QLWCVbV.png)
 
-
-
+|-| **Connectionless** | **Connection-oriented** |
+|-|-|-|
+| Data Send | One packet at a time | Continuous stream of packets |
+| Follow same route? | No | Virtual-Circuit: Yes ,Without-Virtual-Circuit: No |
+| is connection establishment done? | No | Yes |
+| if node crash | Only packets at node are lost | All Virtual circuits through node fail |
+| Ex | UDP | TCP |
+| Authentication | Not required | Required |
+| Reliability | Not guaranteed | Guaranteed |
 
 
 
