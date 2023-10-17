@@ -10,6 +10,4 @@
 - [[Ch-5 Individual Factors\|Ch-5 Individual Factors]]
 
 
-prince bhuva 
 
-![](https://i.imgur.com/VFKmnWz.png)
