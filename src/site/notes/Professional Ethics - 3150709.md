@@ -8,3 +8,8 @@
 - [[Ch-1 Concepts and theories of Business Ethics\|Ch-1 Concepts and theories of Business Ethics]]
 - [[Ch-3 Ethics Dilemmas\|Ch-3 Ethics Dilemmas]]
 - [[Ch-5 Individual Factors\|Ch-5 Individual Factors]]
+
+
+prince bhuva 
+
+![](https://i.imgur.com/VFKmnWz.png)
