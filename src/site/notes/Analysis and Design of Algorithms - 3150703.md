@@ -10,6 +10,9 @@
 - [[Ch-4 Dynamic Programming 15%\|Ch-4 Dynamic Programming 15%]]
 - [[Ch-5 Greedy Algorithm 15%\|Ch-5 Greedy Algorithm 15%]]
 
+## test 
+![](https://i.imgur.com/abhe6bt.png)
+
 
 
 
